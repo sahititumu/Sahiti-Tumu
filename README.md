@@ -33,3 +33,4 @@ This portfolio is a collection of my work in:
 
 Stay tuned! I’ll be uploading my work here to give you a behind-the-scenes look at how I approach marketing.
 
+[Marketing Strategy.pdf](https://github.com/user-attachments/files/21590516/Marketing.Strategy.pdf)
