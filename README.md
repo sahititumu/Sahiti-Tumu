@@ -1,5 +1,5 @@
 
-# Sahiti Tumu - Marketing Portfolio
+# sahititumu - Marketing Portfolio
 
 🎓 MBA Candidate @ UC Riverside  
 📍 Based in Riverside, CA | Passionate about Marketing, Strategy & Communications  
@@ -25,7 +25,7 @@ This portfolio is a collection of my work in:
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Markstrat Simulation** | Marketing simulation project using strategic product decisions and market analysis. | *Marketing Strategy.pdf(https://github.com/user-attachments/files/21590516/Marketing.Strategy.pdf)* |
+| **Markstrat Simulation** | Marketing simulation project using strategic product decisions and market analysis. | *Marketing Strategy.pdf*(https://github.com/user-attachments/files/21590516/Marketing.Strategy.pdf)* |
 | **Cedar Intl Campaign** | Ad campaign created for an international school, targeting prospective students and parents. | *Coming soon* |
 | **UCR Marketing Internship** | Projects from my on-campus internship involving recruitment and brand building. | *Coming soon* |
 
