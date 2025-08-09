@@ -1,5 +1,5 @@
-thi
-# sahititumu - Marketing Portfolio
+
+# SahitiTumu - Portfolio
 
 🎓 MBA Candidate @ UC Riverside  
 📍 Based in Riverside, CA | Passionate about Marketing, Strategy & Communications  
